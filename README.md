@@ -18,7 +18,9 @@ Developer passionate about developer experience, tooling, and mobile infrastruct
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<div 
+    style="display: flex; justify-content: center; align-items: center; gap: 20px;"
+>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anders-planck&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true)
 
