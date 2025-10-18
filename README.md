@@ -28,14 +28,6 @@ Developer passionate about developer experience, tooling, and mobile infrastruct
 
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Anders-planck&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
 ## 🛠️ Tech Stack & Tools
 
 ### Development Environment
